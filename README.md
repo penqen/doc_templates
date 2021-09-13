@@ -1,2 +1,2 @@
-# doc_templates
+# Document Templates
 Document templates for me using AsciiDoc and Markdown.
